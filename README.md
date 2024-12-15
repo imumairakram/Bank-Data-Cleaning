@@ -1,4 +1,4 @@
-# Case Study 2 - Cleaning Bank Data
+# Case Study 2 - Cleaning Bank Data Using Pandas
 
 ## Problem Statement:
 
